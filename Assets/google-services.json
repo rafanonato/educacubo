@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608292836448",
+    "firebase_url": "https://educacubo-2020.firebaseio.com",
+    "project_id": "educacubo-2020",
+    "storage_bucket": "educacubo-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608292836448:android:0a4a87a8c89bb97e8c1f05",
+        "android_client_info": {
+          "package_name": "com.firebase.unity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608292836448-emrt05v9chk64j0r9356c9slh10q3r88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRFZYCdgRT78V31hGxdO7ErmeyUq2HsEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608292836448-emrt05v9chk64j0r9356c9slh10q3r88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
